@@ -1,0 +1,42 @@
+#Sayfada <text> alanını kontrol et
+*id "com.ozdilek.ozdilekteyim:id/tv_storeHeading2" li elementi bul ve <text> alanını kontrol et
+
+#UrUn arama alanına tıkla
+*id "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" li elemente tıkla
+
+#Sayfada <text> alanını kontrol et
+* id "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" li elementi bul ve <text> alanını kontrol et
+
+#Kategoriler butonuna bas ve <text> alanını kontrol et
+*id "com.ozdilek.ozdilekteyim:id/tv_storeHeading1" li elementi bul ve <text> alanını kontrol et
+
+#Urun arama alanına tıkla
+*id "com.ozdilek.ozdilekteyim:id/relLayCategoriesItem[3]" li elemente tıkla
+
+#Sayfanın sonuna kadar scroll et
+
+#Sayfada <text> alanını kontrol et
+*id "com.ozdilek.ozdilekteyim:id/relLayDesc" li elementi bul ve <text> alanını kontrol et
+
+#Favoriler alanına tıkla
+*id "com.ozdilek.ozdilekteyim:id/imgFav" li elemente tıkla
+
+#Giris yap sayfasının acıldıgı dogrulanır
+*id "com.ozdilek.ozdilekteyim:id/btnLogin" li elementi bul ve <text> alanını kontrol et
+
+#Kullanıcı adını <text> gir
+*id "com.ozdilek.ozdilekteyim:id/etEposta" li elementi bul ve <text> degerini yaz
+#Kullanıcı sifresini <text> gir
+*id "com.ozdilek.ozdilekteyim:id/etPassword" li elementi bul ve <text> degerini yaz
+
+#Geri butonuna tıkla
+*id "com.ozdilek.ozdilekteyim:id/ivBack" li elemente tıkla
+
+#Secilen urunu sepete ekle
+*id "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" li elemente tıkla
+
+
+
+
+
+
